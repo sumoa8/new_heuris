@@ -285,7 +285,7 @@ a.jump {
 }
 
 h1{
-	font-family: "Eras Bold ITC", sans-selif;
+	font-family: "Eras Bold ITC", 'sans-selif';
 	font-size: 350%;
 }
 
@@ -294,7 +294,7 @@ h1{
 }
 
 #debut h2 {
-	font-family: "Eras Bold ITC","sans-selif";
+	font-family: "Eras Bold ITC",'sans-selif';
 	font-size: 290%;
 	margin-top: 4vw;
 	line-height: 7vw;
@@ -308,7 +308,7 @@ h1{
 }
 
 #about h2, #performance h2,#technology h2, #design h2, #utility h2, #lineup h2:not(#debut h2, #debut h2 span) {
-	font-family: "Eras Bold ITC", sans-selif;
+	font-family: "Eras Bold ITC", 'sans-selif';
 	font-size: 262.8%;
 }
 
