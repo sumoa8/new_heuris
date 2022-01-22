@@ -329,6 +329,11 @@ p,dd{
 	background-color:#005DAD;
 }
 
+@font-face {
+	font-family: 'Eras Bold ETC';
+	src: url(../ERASBD.TTF);
+}
+
 
 /*初期設定ここまで*/
 
