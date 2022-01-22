@@ -374,7 +374,7 @@ nav {
 	height: 100%;
 }
 
-.navilist li h1, {
+.navilist li h1 {
 	height: 100%;
 	display: block;
 }
@@ -463,9 +463,6 @@ section:not(#debut){
 }*/
 
 /*Performance コンテンツここから*/
-
-#performance {
-}
 
 #performance p {
 	width: 47%;
